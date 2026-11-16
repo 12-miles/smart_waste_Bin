@@ -11,60 +11,35 @@
 <rect x="667.0" y="106" width="46" height="20" rx="4" fill="#1b1f24"/><text x="690" y="120.5" font-size="12" text-anchor="middle" font-weight="bold" fill="#ffffff" font-family="Helvetica, Arial, sans-serif">GND</text>
 <text x="590" y="172" font-size="12" text-anchor="middle" font-weight="normal" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">5V / VIN</text>
 <text x="690" y="172" font-size="12" text-anchor="middle" font-weight="normal" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">GND</text>
-<text x="530" y="225" font-size="13" text-anchor="start" font-weight="bold" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">GPIO 5</text>
-<text x="530" y="305" font-size="13" text-anchor="start" font-weight="bold" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">GPIO 18</text>
-<text x="530" y="525" font-size="13" text-anchor="start" font-weight="bold" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">GPIO 19</text>
-<text x="530" y="605" font-size="13" text-anchor="start" font-weight="bold" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">GPIO 21</text>
+<text x="530" y="355" font-size="13" text-anchor="start" font-weight="bold" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">GPIO 5</text>
+<text x="530" y="435" font-size="13" text-anchor="start" font-weight="bold" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">GPIO 18</text>
 <text x="750" y="225" font-size="13" text-anchor="end" font-weight="bold" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">GPIO 13</text>
 <text x="750" y="385" font-size="13" text-anchor="end" font-weight="bold" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">GPIO 25</text>
 <text x="750" y="505" font-size="13" text-anchor="end" font-weight="bold" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">GPIO 26</text>
 <text x="750" y="605" font-size="13" text-anchor="end" font-weight="bold" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">GPIO 27</text>
-<rect x="50" y="170" width="170" height="185" rx="8" fill="#f3f5f7" stroke="#1b1f24" stroke-width="2"/>
-<text x="135" y="252" font-size="15" text-anchor="middle" font-weight="bold" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">Proximity sensor</text>
-<text x="135" y="272" font-size="12" text-anchor="middle" font-weight="normal" fill="#57606a" font-family="Helvetica, Arial, sans-serif">front of bin</text>
-<text x="135" y="290" font-size="12" text-anchor="middle" font-weight="normal" fill="#57606a" font-family="Helvetica, Arial, sans-serif">HC-SR04</text>
-<text x="212" y="199.5" font-size="12" text-anchor="end" font-weight="bold" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">VCC</text>
-<text x="212" y="224.5" font-size="12" text-anchor="end" font-weight="bold" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">TRIG</text>
-<text x="212" y="304.5" font-size="12" text-anchor="end" font-weight="bold" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">ECHO</text>
-<text x="212" y="339.5" font-size="12" text-anchor="end" font-weight="bold" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">GND</text>
-<polyline points="220,195 250,195" fill="none" stroke="#1b1f24" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
-<rect x="250.0" y="185" width="40" height="20" rx="4" fill="#c62828"/><text x="270" y="199.5" font-size="12" text-anchor="middle" font-weight="bold" fill="#ffffff" font-family="Helvetica, Arial, sans-serif">5V</text>
-<polyline points="220,335 250,335" fill="none" stroke="#1b1f24" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
-<rect x="250.0" y="325" width="46" height="20" rx="4" fill="#1b1f24"/><text x="273" y="339.5" font-size="12" text-anchor="middle" font-weight="bold" fill="#ffffff" font-family="Helvetica, Arial, sans-serif">GND</text>
-<polyline points="220,220 520,220" fill="none" stroke="#e8710a" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
-<polyline points="220,300 300,300" fill="none" stroke="#1565c0" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
-<rect x="300" y="290" width="60" height="20" rx="3" fill="#ffffff" stroke="#1b1f24" stroke-width="2"/><text x="330" y="283" font-size="12" text-anchor="middle" font-weight="normal" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">1 kΩ</text>
-<polyline points="360,300 520,300" fill="none" stroke="#1565c0" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="420" cy="300" r="4.5" fill="#1565c0"/>
-<polyline points="420,300 420,322" fill="none" stroke="#1565c0" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
-<rect x="410" y="322" width="20" height="46" rx="3" fill="#ffffff" stroke="#1b1f24" stroke-width="2"/><text x="437" y="350" font-size="12" text-anchor="start" font-weight="normal" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">2 kΩ</text>
-<polyline points="420,368 420,382" fill="none" stroke="#1b1f24" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
-<rect x="397.0" y="382" width="46" height="20" rx="4" fill="#1b1f24"/><text x="420" y="396.5" font-size="12" text-anchor="middle" font-weight="bold" fill="#ffffff" font-family="Helvetica, Arial, sans-serif">GND</text>
-<text x="370" y="211" font-size="12" text-anchor="middle" font-weight="normal" fill="#e8710a" font-family="Helvetica, Arial, sans-serif">trigger</text>
-<text x="475" y="291" font-size="12" text-anchor="middle" font-weight="normal" fill="#1565c0" font-family="Helvetica, Arial, sans-serif">3.3 V echo</text>
-<rect x="50" y="470" width="170" height="185" rx="8" fill="#f3f5f7" stroke="#1b1f24" stroke-width="2"/>
-<text x="135" y="552" font-size="15" text-anchor="middle" font-weight="bold" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">Fill-level sensor</text>
-<text x="135" y="572" font-size="12" text-anchor="middle" font-weight="normal" fill="#57606a" font-family="Helvetica, Arial, sans-serif">under the lid</text>
-<text x="135" y="590" font-size="12" text-anchor="middle" font-weight="normal" fill="#57606a" font-family="Helvetica, Arial, sans-serif">HC-SR04</text>
-<text x="212" y="499.5" font-size="12" text-anchor="end" font-weight="bold" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">VCC</text>
-<text x="212" y="524.5" font-size="12" text-anchor="end" font-weight="bold" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">TRIG</text>
-<text x="212" y="604.5" font-size="12" text-anchor="end" font-weight="bold" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">ECHO</text>
-<text x="212" y="639.5" font-size="12" text-anchor="end" font-weight="bold" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">GND</text>
-<polyline points="220,495 250,495" fill="none" stroke="#1b1f24" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
-<rect x="250.0" y="485" width="40" height="20" rx="4" fill="#c62828"/><text x="270" y="499.5" font-size="12" text-anchor="middle" font-weight="bold" fill="#ffffff" font-family="Helvetica, Arial, sans-serif">5V</text>
-<polyline points="220,635 250,635" fill="none" stroke="#1b1f24" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
-<rect x="250.0" y="625" width="46" height="20" rx="4" fill="#1b1f24"/><text x="273" y="639.5" font-size="12" text-anchor="middle" font-weight="bold" fill="#ffffff" font-family="Helvetica, Arial, sans-serif">GND</text>
-<polyline points="220,520 520,520" fill="none" stroke="#e8710a" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
-<polyline points="220,600 300,600" fill="none" stroke="#1565c0" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
-<rect x="300" y="590" width="60" height="20" rx="3" fill="#ffffff" stroke="#1b1f24" stroke-width="2"/><text x="330" y="583" font-size="12" text-anchor="middle" font-weight="normal" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">1 kΩ</text>
-<polyline points="360,600 520,600" fill="none" stroke="#1565c0" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="420" cy="600" r="4.5" fill="#1565c0"/>
-<polyline points="420,600 420,622" fill="none" stroke="#1565c0" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
-<rect x="410" y="622" width="20" height="46" rx="3" fill="#ffffff" stroke="#1b1f24" stroke-width="2"/><text x="437" y="650" font-size="12" text-anchor="start" font-weight="normal" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">2 kΩ</text>
-<polyline points="420,668 420,682" fill="none" stroke="#1b1f24" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
-<rect x="397.0" y="682" width="46" height="20" rx="4" fill="#1b1f24"/><text x="420" y="696.5" font-size="12" text-anchor="middle" font-weight="bold" fill="#ffffff" font-family="Helvetica, Arial, sans-serif">GND</text>
-<text x="370" y="511" font-size="12" text-anchor="middle" font-weight="normal" fill="#e8710a" font-family="Helvetica, Arial, sans-serif">trigger</text>
-<text x="475" y="591" font-size="12" text-anchor="middle" font-weight="normal" fill="#1565c0" font-family="Helvetica, Arial, sans-serif">3.3 V echo</text>
+<rect x="50" y="300" width="170" height="185" rx="8" fill="#f3f5f7" stroke="#1b1f24" stroke-width="2"/>
+<text x="135" y="382" font-size="15" text-anchor="middle" font-weight="bold" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">Proximity sensor</text>
+<text x="135" y="402" font-size="12" text-anchor="middle" font-weight="normal" fill="#57606a" font-family="Helvetica, Arial, sans-serif">front of bin</text>
+<text x="135" y="420" font-size="12" text-anchor="middle" font-weight="normal" fill="#57606a" font-family="Helvetica, Arial, sans-serif">HC-SR04</text>
+<text x="212" y="329.5" font-size="12" text-anchor="end" font-weight="bold" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">VCC</text>
+<text x="212" y="354.5" font-size="12" text-anchor="end" font-weight="bold" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">TRIG</text>
+<text x="212" y="434.5" font-size="12" text-anchor="end" font-weight="bold" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">ECHO</text>
+<text x="212" y="469.5" font-size="12" text-anchor="end" font-weight="bold" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">GND</text>
+<polyline points="220,325 250,325" fill="none" stroke="#1b1f24" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="250.0" y="315" width="40" height="20" rx="4" fill="#c62828"/><text x="270" y="329.5" font-size="12" text-anchor="middle" font-weight="bold" fill="#ffffff" font-family="Helvetica, Arial, sans-serif">5V</text>
+<polyline points="220,465 250,465" fill="none" stroke="#1b1f24" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="250.0" y="455" width="46" height="20" rx="4" fill="#1b1f24"/><text x="273" y="469.5" font-size="12" text-anchor="middle" font-weight="bold" fill="#ffffff" font-family="Helvetica, Arial, sans-serif">GND</text>
+<polyline points="220,350 520,350" fill="none" stroke="#e8710a" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="220,430 300,430" fill="none" stroke="#1565c0" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="300" y="420" width="60" height="20" rx="3" fill="#ffffff" stroke="#1b1f24" stroke-width="2"/><text x="330" y="413" font-size="12" text-anchor="middle" font-weight="normal" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">1 kΩ</text>
+<polyline points="360,430 520,430" fill="none" stroke="#1565c0" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="420" cy="430" r="4.5" fill="#1565c0"/>
+<polyline points="420,430 420,452" fill="none" stroke="#1565c0" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="410" y="452" width="20" height="46" rx="3" fill="#ffffff" stroke="#1b1f24" stroke-width="2"/><text x="437" y="480" font-size="12" text-anchor="start" font-weight="normal" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">2 kΩ</text>
+<polyline points="420,498 420,512" fill="none" stroke="#1b1f24" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="397.0" y="512" width="46" height="20" rx="4" fill="#1b1f24"/><text x="420" y="526.5" font-size="12" text-anchor="middle" font-weight="bold" fill="#ffffff" font-family="Helvetica, Arial, sans-serif">GND</text>
+<text x="370" y="341" font-size="12" text-anchor="middle" font-weight="normal" fill="#e8710a" font-family="Helvetica, Arial, sans-serif">trigger</text>
+<text x="475" y="421" font-size="12" text-anchor="middle" font-weight="normal" fill="#1565c0" font-family="Helvetica, Arial, sans-serif">3.3 V echo</text>
 <rect x="1030" y="170" width="200" height="130" rx="8" fill="#f3f5f7" stroke="#1b1f24" stroke-width="2"/>
 <text x="1150" y="232" font-size="15" text-anchor="middle" font-weight="bold" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">Servo</text>
 <text x="1150" y="252" font-size="12" text-anchor="middle" font-weight="normal" fill="#57606a" font-family="Helvetica, Arial, sans-serif">SG90 / MG90S</text>
@@ -103,7 +78,7 @@
 <polyline points="986,586 986,614" fill="none" stroke="#1b1f24" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
 <polyline points="986,600 1060,600" fill="none" stroke="#1b1f24" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
 <rect x="1060.0" y="590" width="46" height="20" rx="4" fill="#1b1f24"/><text x="1083" y="604.5" font-size="12" text-anchor="middle" font-weight="bold" fill="#ffffff" font-family="Helvetica, Arial, sans-serif">GND</text>
-<text x="973" y="576" font-size="13" text-anchor="middle" font-weight="bold" fill="#c62828" font-family="Helvetica, Arial, sans-serif">Red LED: open / full</text>
+<text x="973" y="576" font-size="13" text-anchor="middle" font-weight="bold" fill="#c62828" font-family="Helvetica, Arial, sans-serif">Red LED: lid open</text>
 <text x="973" y="632" font-size="11" text-anchor="middle" font-weight="normal" fill="#57606a" font-family="Helvetica, Arial, sans-serif">long leg ← | → short leg</text>
 <rect x="50" y="740" width="1180" height="110" rx="10" fill="#fafbfc" stroke="#8c959f" stroke-width="1.5"/>
 <rect x="70" y="765" width="170" height="60" rx="8" fill="#fff8e1" stroke="#1b1f24" stroke-width="2"/>
@@ -113,6 +88,6 @@
 <polyline points="240,812 1205,812" fill="none" stroke="#1b1f24" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
 <text x="250" y="772" font-size="14" text-anchor="start" font-weight="bold" fill="#c62828" font-family="Helvetica, Arial, sans-serif">+</text>
 <text x="250" y="833" font-size="14" text-anchor="start" font-weight="bold" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">−</text>
-<text x="280" y="772" font-size="13" text-anchor="start" font-weight="bold" fill="#c62828" font-family="Helvetica, Arial, sans-serif">5V rail  →  servo V+,  both HC-SR04 VCC pins,  ESP32 5V / VIN pin</text>
+<text x="280" y="772" font-size="13" text-anchor="start" font-weight="bold" fill="#c62828" font-family="Helvetica, Arial, sans-serif">5V rail  →  servo V+,  HC-SR04 VCC,  ESP32 5V / VIN pin</text>
 <text x="280" y="834" font-size="13" text-anchor="start" font-weight="bold" fill="#1b1f24" font-family="Helvetica, Arial, sans-serif">GND rail  →  every GND in this drawing, including the ESP32 GND pin (all grounds must be joined)</text>
 </svg>
